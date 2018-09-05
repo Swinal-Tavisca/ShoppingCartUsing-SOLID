@@ -1,0 +1,7 @@
+C:\Users\Swinal\Desktop\Card-SOLID\Card-SOLID\bin\Debug\Card-SOLID.exe.config
+C:\Users\Swinal\Desktop\Card-SOLID\Card-SOLID\bin\Debug\Card-SOLID.exe
+C:\Users\Swinal\Desktop\Card-SOLID\Card-SOLID\bin\Debug\Card-SOLID.pdb
+C:\Users\Swinal\Desktop\Card-SOLID\Card-SOLID\obj\Debug\Card-SOLID.csprojAssemblyReference.cache
+C:\Users\Swinal\Desktop\Card-SOLID\Card-SOLID\obj\Debug\Card-SOLID.csproj.CoreCompileInputs.cache
+C:\Users\Swinal\Desktop\Card-SOLID\Card-SOLID\obj\Debug\Card-SOLID.exe
+C:\Users\Swinal\Desktop\Card-SOLID\Card-SOLID\obj\Debug\Card-SOLID.pdb
